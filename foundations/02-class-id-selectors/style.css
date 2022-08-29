@@ -1,0 +1,21 @@
+/* styles.css */
+
+.odd-numbered {
+  background-color: rgb(255, 153, 153);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.third-el {
+  font-size: 24px;
+}
+
+#second-el {
+  color: hsl(240, 100%, 50%);
+  font-size: 36px;
+}
+
+#fourth-el {
+  background-color: #66ff66;
+  font-weight: bold;
+  font-size: 24px;
+}
